@@ -4,7 +4,7 @@ Welcome to my **Power BI Portfolio Repository**!
 This repository contains a collection of **real-time Power BI projects and proof-of-concepts (POCs)** that I have worked on across multiple domains — **retail, finance, payments, hiring, real estate, and operations**.
 
 Each folder will showcase:
-- Power BI `.pbix` file
+- PDF file of the completed dashboard/report
 - Screenshots of dashboards
 - Project description (problem → data → insights)
 
@@ -34,6 +34,6 @@ Each folder will showcase:
 ---
 
 ##  Contact
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio Website**: [hayrus97.github.io](https://hayrus97.github.io)
-- **Email**: yourname@email.com
+- **LinkedIn**: [suryah-v](https://linkedin.com/in/suryah-v)
+- **Portfolio Website**: [suryahvadivel.github.io](https://suryahvadivel.github.io/)
+- **Email**: suryahvel@email.com
