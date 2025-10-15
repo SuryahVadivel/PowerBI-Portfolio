@@ -21,15 +21,42 @@ Each folder will showcase:
 
 ## 📊 Projects & POCs
 
-- [🏢 5th Street – Real Estate Analytics](./5th-street)
-- [👕 Classicpolo – Clothing Brand Analytics](./Classicpolo)
-- [💰 Finance – Investment & Expense Tracking](./Finance)
-- [🌱 Grow – Startup Growth Analytics](./Grow)
-- [💳 iPayment – Transactions & Payment Tracking](./ipayment)
-- [📦 Plaeto – Product & Supply Analytics](./Plaeto)
-- [🏠 RealEstate – Property & ROI Analytics](./RealEstate)
-- [⏱️ Tick – Employee Activity & Timesheet Tracking](./Tick)
-- [👨‍💼 Zoho Recruit – Hiring & Recruitment Analytics](./Zoho_recruit)
+## 📊 Featured Power BI Projects
+
+### 👕 ClassicPolo – Clothing Brand Analytics
+A Power BI dashboard analyzing sales performance, revenue trends, and profitability of a clothing brand to identify top-performing categories and optimize marketing spend.  
+**Preview:**  
+![ClassicPolo Dashboard](projects/Classicpolo.png)
+
+---
+
+### 💳 Payment – Transactions & Cashflow Analysis
+Designed to monitor daily transactions, payment success rates, and collection efficiency. Includes revenue funnel and trend forecasting visuals.  
+**Preview:**  
+![Payment Dashboard](projects/Payment.png)
+
+---
+
+### 🧭 Performance Management – Employee KPIs
+Performance tracking dashboard for measuring employee productivity, hours utilization, and KPI achievement at project and team levels.  
+**Preview:**  
+![Performance Management](projects/Performance_Management.png)
+
+---
+
+### 📦 Plaeto – Product & Supply Analytics
+A detailed supply-chain dashboard tracking product movement, stock status, and vendor performance, ensuring optimized lead times and cost efficiency.  
+**Preview:**  
+![Plaeto Dashboard](projects/Plaeto.png)
+
+---
+
+### 🏠 Real Estate – ROI & Property Insights
+A real-estate analytics dashboard highlighting ROI trends, occupancy rates, and investment opportunities across multiple properties and locations.  
+**Preview:**  
+![Real Estate Dashboard](projects/Real_estate.png)
+
+
 
 ---
 
