@@ -33,7 +33,7 @@ Key Highlights:
 3.Delivered insights that improved campaign targeting and boosted overall sales efficiency by 15%
 **Preview:**  
 ![ClassicPolo Dashboard](projects/Classicpolo.png)
-[View Full PDF](projects/ClassicPolo.pdf)
+[View Full PDF](projects/Classicpolo.pdf)
 
 ---
 
@@ -91,6 +91,7 @@ Key Highlights:
 2.Built funnel analysis to track conversion from received quotes to closed deals.
 3.Helped management understand quote behavior across Fannie Mae, Freddie Mac, and Debt Funds, enabling strategic focus on high-yield lender segments.**Preview:**  
 ![Real Estate Dashboard](projects/Real_estate.png)
+[View Full PDF](projects/Quotes_Dashboard.pdf)
 
 
 
