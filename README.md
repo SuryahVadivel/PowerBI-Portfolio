@@ -29,7 +29,9 @@ An interactive Power BI dashboard developed for a leading fashion retailer (Clas
 Key Highlights:
 
 1.Integrated multi-channel data (offline + online) to measure sales KPIs.
+
 2.Built Planned vs Achieved gauge visuals for real-time performance tracking.
+
 3.Delivered insights that improved campaign targeting and boosted overall sales efficiency by 15%
 **Preview:**  
 ![ClassicPolo Dashboard](projects/Classicpolo.png)
@@ -44,7 +46,9 @@ A comprehensive Power BI solution built for a government-level financial platfor
 Key Highlights:
 
 1.Delivered a centralized view of 374 users across 43 departments, highlighting adoption by platform (portal, Android, iOS).
+
 2.Implemented dynamic filters for ministry, department, and year.
+
 3.Helped identify under-utilized departments and plan user-engagement strategies, improving platform activation by 18%.**Preview:**  
 ![Payment Dashboard](projects/Payment.png)
 [View Full PDF](projects/iPayment_Report.pdf)
@@ -58,7 +62,9 @@ An internal performance-management dashboard designed for HR and leadership team
 Key Highlights:
 
 1.Captures quarterly appraisal cycles for 45 reportees and 93 evaluations.
+
 2.Built KPI cards and line visuals to show rating trends over multiple quarters.
+
 3.Enabled data-driven recognition decisions and improved employee retention through transparent performance analytics.**Preview:**  
 ![Performance Management](projects/Performance_management.png)
 [View Full PDF](projects/Performance_report.pdf)
@@ -73,7 +79,9 @@ A full-stack product-performance and supply-chain dashboard created for Plaeto F
 Key Highlights:
 
 1.Developed multi-tab navigation (Overview / Product / Campaign / Finance).
+
 2.Used DAX for refund ratios, average daily sales, and top-city revenue metrics.
+
 3.Supported data-driven decision-making in style planning, leading to a 9.3 M INR revenue visibility gain and optimized inventory management.**Preview:**  
 ![Plaeto Dashboard](projects/Plaeto.png)
 [View Full PDF](projects/Plaeto_Report.pdf)
@@ -88,7 +96,9 @@ An advanced Power BI dashboard created for analyzing real-estate loan quotes acr
 Key Highlights:
 
 1.Analyzed over 2,600 quotes with breakdowns by lender type, property type, and loan term.
+
 2.Built funnel analysis to track conversion from received quotes to closed deals.
+
 3.Helped management understand quote behavior across Fannie Mae, Freddie Mac, and Debt Funds, enabling strategic focus on high-yield lender segments.**Preview:**  
 ![Real Estate Dashboard](projects/Real_estate.png)
 [View Full PDF](projects/Quotes_Dashboard.pdf)
