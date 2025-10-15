@@ -35,7 +35,7 @@ Key Highlights:
 3.Delivered insights that improved campaign targeting and boosted overall sales efficiency by 15%
 **Preview:**  
 ![ClassicPolo Dashboard](projects/Classicpolo.png)
-[View Full PDF](projects/Classicpolo.pdf)
+[![View PDF](https://img.shields.io/badge/View%20Report-PDF-red?logo=adobeacrobatreader)](projects/Classicpolo.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ Key Highlights:
 
 3.Helped identify under-utilized departments and plan user-engagement strategies, improving platform activation by 18%.**Preview:**  
 ![Payment Dashboard](projects/Payment.png)
-[View Full PDF](projects/iPayment_Report.pdf)
+[![View PDF](https://img.shields.io/badge/View%20Report-PDF-red?logo=adobeacrobatreader)](projects/iPayment_Report.pdf)
 
 ---
 
@@ -67,7 +67,7 @@ Key Highlights:
 
 3.Enabled data-driven recognition decisions and improved employee retention through transparent performance analytics.**Preview:**  
 ![Performance Management](projects/Performance_management.png)
-[View Full PDF](projects/Performance_report.pdf)
+[![View PDF](https://img.shields.io/badge/View%20Report-PDF-red?logo=adobeacrobatreader)](projects/Performance_report.pdf)
 
 
 ---
@@ -84,7 +84,7 @@ Key Highlights:
 
 3.Supported data-driven decision-making in style planning, leading to a 9.3 M INR revenue visibility gain and optimized inventory management.**Preview:**  
 ![Plaeto Dashboard](projects/Plaeto.png)
-[View Full PDF](projects/Plaeto_Report.pdf)
+[![View PDF](https://img.shields.io/badge/View%20Report-PDF-red?logo=adobeacrobatreader)](projects/Plaeto_Report.pdf)
 
 
 ---
@@ -101,7 +101,7 @@ Key Highlights:
 
 3.Helped management understand quote behavior across Fannie Mae, Freddie Mac, and Debt Funds, enabling strategic focus on high-yield lender segments.**Preview:**  
 ![Real Estate Dashboard](projects/Real_estate.png)
-[View Full PDF](projects/Quotes_Dashboard.pdf)
+[![View PDF](https://img.shields.io/badge/View%20Report-PDF-red?logo=adobeacrobatreader)](projects/Quotes_Dashboard.pdf)
 
 
 
